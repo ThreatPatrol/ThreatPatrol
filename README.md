@@ -3,7 +3,7 @@
 
 
 
-Aspiring Cybersecurity Analyst who is passionate about learning and growing in the field of cybersecurity.
+Aspiring Cybersecurity Analyst who is passionate about learning and growing in the field of cybersecurity. 
 
 ## Objective
 
