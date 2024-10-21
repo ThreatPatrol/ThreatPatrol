@@ -3,7 +3,7 @@
 
 [Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+Aspiring Cybersecurity Analyst who is passionate about learning and growing in the field of cybersecurity.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
