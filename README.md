@@ -13,7 +13,7 @@ My interest and journey in computer science has led me to develop a passion for 
 ## Skills
 
 
-| Skill                                         | Associated Project         |
+| Skill                                         | Associated Project         | 
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
