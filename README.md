@@ -15,7 +15,7 @@ My interest and journey in computer science has led me to develop a passion for 
 
 | Skill                                         | Associated Project         | 
 |-----------------------------------------------|----------------------------|
-| Vulnerability Management & Reporitng on Qualys| <a href="https://google.com">Detection Lab</a>|
+| Vulnerability Management & Reporitng on Qualys| <a href="https://github.com/30Gramz/Vulnerability-Management-Reporting-on-Qualys/edit/main/README.md">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab| 
 | Incident Response Planning and Execution      | SOC Automation Lab|
