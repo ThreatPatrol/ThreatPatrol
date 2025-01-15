@@ -28,7 +28,7 @@ My interest and journey in computer science has led me to develop a passion for 
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/Qualys-Vulnerability_Management-EF3B2D?style=flat-square&logo=shield&logoColor=white" alt="Qualys Badge" height= 28" />
+    <img src="https://img.shields.io/badge/Qualys-Vulnerability_Management-FF0000?style=flat-square&logo=shield&logoColor=white" alt="Qualys Badge" height= 28" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
@@ -36,7 +36,7 @@ My interest and journey in computer science has led me to develop a passion for 
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-    <img src="https://img.shields.io/badge/Qualys-End_Point-EF3B2D?style=flat-square&logo=shield&logoColor=white" alt="Qualys Badge" height= 28" />
+    <img src="https://img.shields.io/badge/Qualys-End_Point-FF0000?style=flat-square&logo=shield&logoColor=white" alt="Qualys Badge" height= 28" />
 </div>
 
 ### SIEM
