@@ -17,7 +17,7 @@ My interest and journey in computer science has led me to develop a passion for 
 |-----------------------------------------------|----------------------------|
 | Home Lab Setup                                |  <a href="https://github.com/30Gramz/Home-lab/blob/main/README.md">Building the home lab </a>|
 | Vulnerability Management and Remediation (Qualys) | <a href="https://github.com/30Gramz/Vulnerability-Management-Reporting-on-Qualys/blob/main/README.md">Vulnerability Insights </a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| AI-Generated Phishing Defence                 | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab| 
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
