@@ -16,11 +16,11 @@ My interest and journey in computer science has led me to develop a passion for 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Home Lab Setup                                |  <a href="https://github.com/30Gramz/Home-lab/blob/main/README.md">Building The Home Lab </a>|
-| Vulnerability Management and Remediation (Qualys) | <a href="https://github.com/30Gramz/Vulnerability-Management-Reporting-on-Qualys/blob/main/README.md">Vulnerability Management Lab </a>|
+| Vulnerability Management and Remediation (Qualys Cloud Agent) | <a href="https://github.com/30Gramz/Vulnerability-Management-Reporting-on-Qualys/blob/main/README.md">Vulnerability Management Lab </a>|
 | AI-Generated Phishing Defence                 | <a href="https://github.com/30Gramz/AI-Generated-Phishing-Email-Detection/blob/main/README.md">Phishing Detection Lab</a>|
 | AI-Powered Threat Detection System            | <a href="https://github.com/ThreatPatrol/AI-Powered-Threat-Detection-System">AI Detection Lab </a>| 
 | AWS Incident Detection and Response           | SOC Automation Lab|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| AWS IAM Security and Least Privilege          | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
