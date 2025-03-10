@@ -19,7 +19,7 @@ My interest and journey in computer science has led me to develop a passion for 
 | Vulnerability Management and Remediation (Qualys) | <a href="https://github.com/30Gramz/Vulnerability-Management-Reporting-on-Qualys/blob/main/README.md">Vulnerability Management Lab </a>|
 | AI-Generated Phishing Defence                 | <a href="https://github.com/30Gramz/AI-Generated-Phishing-Email-Detection/blob/main/README.md">Phishing Detection Lab</a>|
 | AI-Powered Threat Detection System            | <a href="https://github.com/ThreatPatrol/AI-Powered-Threat-Detection-System">AI Detection Lab </a>| 
-| Incident Response Planning and Execution      | SOC Automation Lab|
+| AWS Incident Detection and Response           | SOC Automation Lab|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
