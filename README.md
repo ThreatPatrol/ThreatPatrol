@@ -19,7 +19,7 @@ My interest and journey in computer science has led me to develop a passion for 
 | Vulnerability Management and Remediation (Qualys Cloud Agent) | <a href="https://github.com/30Gramz/Vulnerability-Management-Reporting-on-Qualys/blob/main/README.md">Vulnerability Management Lab </a>|
 | AI-Generated Phishing Defence                 | <a href="https://github.com/30Gramz/AI-Generated-Phishing-Email-Detection/blob/main/README.md">Phishing Detection Lab</a>|
 | AI-Powered Threat Detection System            | <a href="https://github.com/ThreatPatrol/AI-Powered-Threat-Detection-System">AI Detection Lab </a>| 
-| Secure Data Bridge using AWS lambda,S3 and IAM | AWS Cloud lab |
+| Secure Data Bridge using AWS lambda,S3 and IAM | <a href="https://github.com/ThreatPatrol/AWS-secure-data-bridge-/edit/main/README.md"> AWS Cloud lab </a>|
 | AWS Incident Detection and Response           | SOC Automation Lab|
 | AWS IAM Security and Least Privilege          | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
