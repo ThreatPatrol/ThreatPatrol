@@ -22,6 +22,7 @@ My interest and journey in computer science has led me to develop a passion for 
 | AWS Incident Detection and Response           | SOC Automation Lab|
 | AWS IAM Security and Least Privilege          | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Secure Data Bridge using AWS lambda,S3 and IAM | AWS Cloud lab |
 
 ## Tools
 
