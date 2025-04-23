@@ -3,7 +3,7 @@
 
 
 
-"Cybersecurity professional with a growing expertise in cloud security, dedicated to protecting digital assets and infrastructure. I'm passionate about staying up-to-date with the latest cloud security trends and best practices. 
+Cybersecurity professional with a growing expertise in cloud security, dedicated to protecting digital assets and infrastructure. I'm passionate about staying up-to-date with the latest cloud security trends and best practices. 
 
 ## Objective
 
